@@ -8,6 +8,8 @@
 
 ES 基于多个语言，例如 Brendan Eich 在 Netscape 编写的 JavaScript 以及 Microsoft 的 JScript。
 
+current: https://tc39.es/ecma262/multipage/notational-conventions.html#sec-notational-conventions
+
 ## Categories
 
 - 概述
