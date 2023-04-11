@@ -13,3 +13,5 @@ ES 基于多个语言，例如 Brendan Eich 在 Netscape 编写的 JavaScript �
 - 概述
   - [ES 概述](./subs/001.Summary/001.md)
   - [对象概述](./subs/001.Summary/002.md)
+  - [严格模式](./subs/001.Summary/003.md)
+  - [术语和定义](./subs/001.Summary/004.md)
